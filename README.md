@@ -1,4 +1,12 @@
 # hello-world
+First repository of Fernando
+
+My name is Fernando, I am Systems Analyst
+I began my career when I was 15 years old.
+Next 20th, February I am going to 47 years old.
+Then, I had work and dedicate my life for last 32 years to I.T.
+I always loved to develop business applications.
+
 Primeiro Repositório do Fernando
 
 Meu nome é Fernando, sou Analista de Sistemas.
